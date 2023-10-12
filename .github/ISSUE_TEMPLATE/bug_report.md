@@ -12,4 +12,4 @@ body:
       description: Write text here.
       placeholder: Here will be text
     validations:
-      required: true
+      required: false
